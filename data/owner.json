@@ -1,0 +1,18 @@
+{
+  "owner": "254116726222",
+  "botName": "XYPHER-X",
+  "prefix": ".",
+  "mode": "private",
+  "password": "",
+  "autoBio": false,
+  "autoStatus": false,
+  "autoTyping": true,
+  "autoRecording": false,
+  "autoReact": true,
+  "antiCall": false,
+  "antiDelete": false,
+  "antiDeleteStatus": false,
+  "chatbot": false,
+  "sudo": [],
+  "banned": []
+}

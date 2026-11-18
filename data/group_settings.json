@@ -1,0 +1,11 @@
+{
+  "120363411717969253@g.us": {
+    "welcome": true,
+    "goodbye": true,
+    "antiLink": true,
+    "antibadword": true,
+    "antiword": true,
+    "antiSpam": true,
+    "antibot": true
+  }
+}
