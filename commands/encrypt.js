@@ -1,0 +1,1 @@
+export default { execute: async ({ sock, m, from, args }) => { const t = args.join(' '); if(!t) return sock.sendMessage(from, {text: '❌ Provide text.'}); await sock.sendMessage(from, { text: `🔐 *ENCRYPTED:*\n${Buffer.from(t).toString('base64')}` }, { quoted: m }); }};

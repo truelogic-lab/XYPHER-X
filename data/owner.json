@@ -5,7 +5,7 @@
   "mode": "private",
   "password": "",
   "autoBio": false,
-  "autoStatus": false,
+  "autoStatus": true,
   "autoTyping": true,
   "autoRecording": false,
   "autoReact": true,
